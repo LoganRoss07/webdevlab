@@ -1,1 +1,10 @@
 # webdevlab
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Title Goes Here</title>
+  </head>
+  <body>
+    <!--OUR VIEWABLE ELEMENTS GO HERE-->
+  </body>
+</html>
